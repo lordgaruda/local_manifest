@@ -14,6 +14,7 @@
     <project name="device_xiaomi_camellia-kernel" path="device/xiaomi/camellia-kernel" remote="dm700-devs" revision="thirteen" />
     <project name="android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="xiaomi-mediatek-devs" revision="lineage-20" />
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="lineageos" revision="lineage-20" />
+    <project name="android_hardware_mediatek" path="hardware/mediatek" remote="xiaomi-mediatek-devs" revision="lineage-20" />
     <project name="lineage-priv" path="vendor/lineage-priv" remote="auroradroid" revision="14" />
 
 </manifest>
